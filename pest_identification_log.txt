@@ -1,0 +1,837 @@
+[2025-04-21 22:06:46] cURL Error: URL rejected: Malformed input to a URL function
+[2025-04-21 22:06:46] Error: URL rejected: Malformed input to a URL function
+[2025-04-21 22:09:05] [INFO] API Key loaded successfully
+[2025-04-21 22:09:05] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpDEC7.tmp","error":0,"size":666743}
+[2025-04-21 22:09:05] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a5e13b01d.jpg
+[2025-04-21 22:09:05] [INFO] Database record created with ID: 7
+[2025-04-21 22:09:05] [INFO] Image encoded successfully
+[2025-04-21 22:09:05] [INFO] Sending request to Gemini API
+[2025-04-21 22:09:05] [ERROR] cURL Error: URL rejected: Malformed input to a URL function
+[2025-04-21 22:09:05] [ERROR] #0 {main}
+[2025-04-21 22:11:07] [INFO] API Key loaded successfully
+[2025-04-21 22:11:07] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpBE17.tmp","error":0,"size":666743}
+[2025-04-21 22:11:07] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a65be2ea2.jpg
+[2025-04-21 22:11:07] [INFO] Database record created with ID: 8
+[2025-04-21 22:11:07] [INFO] Image encoded successfully
+[2025-04-21 22:11:07] [INFO] Sending request to Gemini API
+[2025-04-21 22:12:29] [INFO] API Key loaded successfully
+[2025-04-21 22:12:29] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpFDCC.tmp","error":0,"size":666743}
+[2025-04-21 22:12:29] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a6adbcf5c.jpg
+[2025-04-21 22:12:29] [INFO] Database record created with ID: 9
+[2025-04-21 22:12:29] [INFO] Image encoded successfully
+[2025-04-21 22:12:29] [INFO] Sending request to Gemini API
+[2025-04-21 22:14:11] [INFO] API Key loaded successfully
+[2025-04-21 22:14:11] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\php8AA7.tmp","error":0,"size":666743}
+[2025-04-21 22:14:11] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a7135b612.jpg
+[2025-04-21 22:14:11] [INFO] Database record created with ID: 10
+[2025-04-21 22:14:11] [INFO] Image encoded successfully
+[2025-04-21 22:14:11] [INFO] Sending request to Gemini API
+[2025-04-21 22:14:18] [INFO] API Text Response: ```json
+{
+  "name": "Tiphia wasp",
+  "confidence": 0.95,
+  "description": "The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects.  They are often associated with scarab beetle grubs, which they parasitize.  Adults are generally solitary and not considered directly harmful to plants themselves.  However, their presence can indicate a larger scarab beetle grub infestation.",
+  "treatments": [
+    "Monitor for scarab beetle grubs.  If a significant infestation is present, consider cultural controls such as crop rotation or soil improvement to reduce grub populations.",
+    "For severe infestations, biological control methods such as introducing beneficial nematodes or other natural enemies of scarab beetles may be effective.",
+    "Chemical control is generally not recommended for Tiphia wasps or scarab beetles unless the infestation is exceptionally severe and impacting crop yields significantly.  If chemical control is considered, consult with a local agricultural extension office for recommendations on appropriate insecticides and application methods."
+  ]
+}
+```
+
+[2025-04-21 22:14:18] [INFO] Pest identified: {"name":"Tiphia wasp","confidence":0.95,"description":"The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects.  They are often associated with scarab beetle grubs, which they parasitize.  Adults are generally solitary and not considered directly harmful to plants themselves.  However, their presence can indicate a larger scarab beetle grub infestation.","treatments":["Monitor for scarab beetle grubs.  If a significant infestation is present, consider cultural controls such as crop rotation or soil improvement to reduce grub populations.","For severe infestations, biological control methods such as introducing beneficial nematodes or other natural enemies of scarab beetles may be effective.","Chemical control is generally not recommended for Tiphia wasps or scarab beetles unless the infestation is exceptionally severe and impacting crop yields significantly.  If chemical control is considered, consult with a local agricultural extension office for recommendations on appropriate insecticides and application methods."]}
+[2025-04-21 22:14:18] [INFO] Results saved to database successfully
+[2025-04-21 22:15:49] [INFO] API Key loaded successfully
+[2025-04-21 22:15:49] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\php8BC.tmp","error":0,"size":666743}
+[2025-04-21 22:15:49] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a7752e7d0.jpg
+[2025-04-21 22:15:49] [INFO] Database record created with ID: 11
+[2025-04-21 22:15:49] [INFO] Image encoded successfully
+[2025-04-21 22:15:49] [INFO] Sending request to Gemini API
+[2025-04-21 22:15:54] [INFO] API Text Response: ```json
+{
+  "name": "Tiphia wasp",
+  "confidence": 0.95,
+  "description": "The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects, typically scarab beetle grubs.  They are not directly harmful to plants themselves, but they can indirectly benefit plants by controlling populations of root-feeding beetle larvae that can damage plant roots.  The specific species cannot be determined from the image alone.",
+  "treatments": []
+}
+```
+
+[2025-04-21 22:15:54] [INFO] Pest identified: {"name":"Tiphia wasp","confidence":0.95,"description":"The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects, typically scarab beetle grubs.  They are not directly harmful to plants themselves, but they can indirectly benefit plants by controlling populations of root-feeding beetle larvae that can damage plant roots.  The specific species cannot be determined from the image alone.","treatments":[]}
+[2025-04-21 22:15:54] [INFO] Results saved to database successfully
+[2025-04-21 22:16:32] [INFO] API Key loaded successfully
+[2025-04-21 22:16:32] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpB27A.tmp","error":0,"size":12807}
+[2025-04-21 22:16:32] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a7a09a7ab.jpg
+[2025-04-21 22:16:32] [INFO] Database record created with ID: 12
+[2025-04-21 22:16:32] [INFO] Image encoded successfully
+[2025-04-21 22:16:32] [INFO] Sending request to Gemini API
+[2025-04-21 22:16:35] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows multiple adult Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves by consuming the leaf tissue between the veins, as seen in the image.  They are voracious feeders and can cause significant damage to a wide variety of plants.",
+  "treatments": [
+    "Handpicking: Manually remove beetles from plants, especially in the early morning when they are less active. Dispose of them in soapy water.",
+    "Trapping: Use pheromone traps to attract and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in the immediate vicinity.",
+    "Insecticidal Soap: Apply insecticidal soap directly to the beetles. Repeat applications as needed.",
+    "Neem Oil: Spray neem oil on plants to deter beetles and disrupt their life cycle.  Multiple applications may be necessary.",
+    "Biological Control: Introduce beneficial nematodes (e.g., Heterorhabditis bacteriophora) into the soil to control beetle larvae.",
+    "Systemic Insecticides: Use systemic insecticides as a last resort, following label instructions carefully.  These should be used cautiously due to potential harm to beneficial insects and pollinators."
+  ]
+}
+```
+
+[2025-04-21 22:16:35] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows multiple adult Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves by consuming the leaf tissue between the veins, as seen in the image.  They are voracious feeders and can cause significant damage to a wide variety of plants.","treatments":["Handpicking: Manually remove beetles from plants, especially in the early morning when they are less active. Dispose of them in soapy water.","Trapping: Use pheromone traps to attract and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in the immediate vicinity.","Insecticidal Soap: Apply insecticidal soap directly to the beetles. Repeat applications as needed.","Neem Oil: Spray neem oil on plants to deter beetles and disrupt their life cycle.  Multiple applications may be necessary.","Biological Control: Introduce beneficial nematodes (e.g., Heterorhabditis bacteriophora) into the soil to control beetle larvae.","Systemic Insecticides: Use systemic insecticides as a last resort, following label instructions carefully.  These should be used cautiously due to potential harm to beneficial insects and pollinators."]}
+[2025-04-21 22:16:35] [INFO] Results saved to database successfully
+[2025-04-21 22:18:50] [INFO] API Key loaded successfully
+[2025-04-21 22:18:50] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpCD5C.tmp","error":0,"size":666743}
+[2025-04-21 22:18:50] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a82a99a42.jpg
+[2025-04-21 22:18:50] [INFO] Database record created with ID: 13
+[2025-04-21 22:18:50] [INFO] Image encoded successfully
+[2025-04-21 22:18:50] [INFO] Sending request to Gemini API
+[2025-04-21 22:18:55] [INFO] API Text Response: ```json
+{
+  "name": "Tiphia wasp",
+  "confidence": 0.95,
+  "description": "The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects, typically scarab beetles (like June bugs). They are not directly plant pests, but they can indirectly benefit plants by controlling populations of beetle larvae that damage roots and other plant parts.  The wasp itself does not feed on plant tissues.",
+  "treatments": []
+}
+```
+
+[2025-04-21 22:18:55] [INFO] Pest identified: {"name":"Tiphia wasp","confidence":0.95,"description":"The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects, typically scarab beetles (like June bugs). They are not directly plant pests, but they can indirectly benefit plants by controlling populations of beetle larvae that damage roots and other plant parts.  The wasp itself does not feed on plant tissues.","treatments":[]}
+[2025-04-21 22:18:55] [INFO] Results saved to database successfully
+[2025-04-21 22:19:05] [INFO] API Key loaded successfully
+[2025-04-21 22:19:05] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\php759.tmp","error":0,"size":12807}
+[2025-04-21 22:19:05] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a83967b9e.jpg
+[2025-04-21 22:19:05] [INFO] Database record created with ID: 14
+[2025-04-21 22:19:05] [INFO] Image encoded successfully
+[2025-04-21 22:19:05] [INFO] Sending request to Gemini API
+[2025-04-21 22:19:09] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows multiple adult Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves by consuming the leaf tissue between the veins, as seen in the image.  They are voracious feeders and can cause significant damage to a wide variety of plants, including grapes, roses, and many other ornamentals and vegetables.",
+  "treatments": [
+    "Handpicking: Manually collect and destroy the beetles, especially in the early stages of infestation.",
+    "Trapping: Use pheromone traps to lure and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in other parts of the garden.",
+    "Insecticidal Soap: Apply insecticidal soap directly to the beetles. Repeat applications as needed.",
+    "Neem Oil: Spray neem oil on the plants to control beetle larvae and adults.  Follow product instructions carefully.",
+    "Bacillus thuringiensis (Bt):  Some formulations of Bt are effective against Japanese beetle larvae. Apply to the soil according to label instructions.",
+    "Systemic Insecticides:  Use as a last resort and only if other methods are ineffective.  Follow label instructions carefully and consider the impact on beneficial insects and pollinators."
+  ]
+}
+```
+
+[2025-04-21 22:19:09] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows multiple adult Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves by consuming the leaf tissue between the veins, as seen in the image.  They are voracious feeders and can cause significant damage to a wide variety of plants, including grapes, roses, and many other ornamentals and vegetables.","treatments":["Handpicking: Manually collect and destroy the beetles, especially in the early stages of infestation.","Trapping: Use pheromone traps to lure and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in other parts of the garden.","Insecticidal Soap: Apply insecticidal soap directly to the beetles. Repeat applications as needed.","Neem Oil: Spray neem oil on the plants to control beetle larvae and adults.  Follow product instructions carefully.","Bacillus thuringiensis (Bt):  Some formulations of Bt are effective against Japanese beetle larvae. Apply to the soil according to label instructions.","Systemic Insecticides:  Use as a last resort and only if other methods are ineffective.  Follow label instructions carefully and consider the impact on beneficial insects and pollinators."]}
+[2025-04-21 22:19:09] [INFO] Results saved to database successfully
+[2025-04-21 22:21:57] [INFO] API Key loaded successfully
+[2025-04-21 22:21:57] [INFO] File upload received: {"name":"Screenshot 2025-04-22 015146.png","full_path":"Screenshot 2025-04-22 015146.png","type":"image\/png","tmp_name":"C:\\xampp new\\tmp\\phpA835.tmp","error":0,"size":271959}
+[2025-04-21 22:21:57] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a8e5a3156.png
+[2025-04-21 22:21:57] [INFO] Database record created with ID: 15
+[2025-04-21 22:21:57] [INFO] Image encoded successfully
+[2025-04-21 22:21:57] [INFO] Sending request to Gemini API
+[2025-04-21 22:22:03] [INFO] API Text Response: ```json
+{
+  "name": "European Corn Borer (larva)",
+  "confidence": 0.95,
+  "description": "The image shows a larva of the European Corn Borer (Ostrinia nubilalis).  This is a significant pest of maize (corn) and other plants. The larva is characterized by its light brown to tan color, numerous small dark spots along its body, and a dark head capsule.  The larva bores into the stalks and ears of corn, causing damage to the plant and reducing yield.  The presence of frass (insect excrement) is often associated with infestation.",
+  "treatments": [
+    "Monitor fields regularly for signs of infestation (e.g., holes in stalks, frass).",
+    "Use resistant corn hybrids that are less susceptible to borer damage.",
+    "Employ cultural practices such as crop rotation and timely planting to disrupt the pest's life cycle.",
+    "Consider biological control methods, such as introducing natural predators like parasitic wasps.",
+    "Apply insecticides specifically targeting corn borers, following label instructions carefully.  Consider using insecticides only when necessary and at the appropriate growth stage to minimize environmental impact.  Bacillus thuringiensis (Bt) is a biological insecticide option.",
+    "Remove and destroy infested plant material to reduce the overwintering population."
+  ]
+}
+```
+
+[2025-04-21 22:22:03] [INFO] Pest identified: {"name":"European Corn Borer (larva)","confidence":0.95,"description":"The image shows a larva of the European Corn Borer (Ostrinia nubilalis).  This is a significant pest of maize (corn) and other plants. The larva is characterized by its light brown to tan color, numerous small dark spots along its body, and a dark head capsule.  The larva bores into the stalks and ears of corn, causing damage to the plant and reducing yield.  The presence of frass (insect excrement) is often associated with infestation.","treatments":["Monitor fields regularly for signs of infestation (e.g., holes in stalks, frass).","Use resistant corn hybrids that are less susceptible to borer damage.","Employ cultural practices such as crop rotation and timely planting to disrupt the pest's life cycle.","Consider biological control methods, such as introducing natural predators like parasitic wasps.","Apply insecticides specifically targeting corn borers, following label instructions carefully.  Consider using insecticides only when necessary and at the appropriate growth stage to minimize environmental impact.  Bacillus thuringiensis (Bt) is a biological insecticide option.","Remove and destroy infested plant material to reduce the overwintering population."]}
+[2025-04-21 22:22:03] [INFO] Results saved to database successfully
+[2025-04-22 21:56:06] [INFO] API Key loaded successfully
+[2025-04-22 21:56:06] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\php5A9E.tmp","error":0,"size":12807}
+[2025-04-22 21:56:06] [INFO] File saved successfully: C:\xampp new\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_6807f456215c1.jpg
+[2025-04-22 21:56:06] [INFO] Database record created with ID: 24
+[2025-04-22 21:56:06] [INFO] Image encoded successfully
+[2025-04-22 21:56:06] [INFO] Sending request to Gemini API
+[2025-04-22 21:56:10] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows multiple Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green and copper-colored, with a distinctive tuft of white hairs on the abdomen. They are known for their characteristic feeding pattern, which leaves behind a skeletonized leaf with only the veins remaining, as seen in the picture.  They are voracious feeders and can severely damage a wide variety of plants.",
+  "treatments": [
+    "Handpicking: Manually remove beetles from plants, especially in the early morning when they are less active. Dispose of them in soapy water.",
+    "Trapping: Use pheromone traps to lure and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in some cases.",
+    "Insecticidal Soap: Apply insecticidal soap directly to the beetles, covering their bodies thoroughly. Repeat applications as needed.",
+    "Neem Oil: Spray neem oil on plants according to label instructions. This acts as a natural insecticide and can help control beetle populations.",
+    "Biological Control: Introduce beneficial nematodes (Heterorhabditis bacteriophora) into the soil. These nematodes attack the beetle larvae.",
+    "Systemic Insecticides: Use systemic insecticides as a last resort, following label instructions carefully. These are more toxic and should be used only when other methods have failed."
+  ]
+}
+```
+
+[2025-04-22 21:56:10] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows multiple Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green and copper-colored, with a distinctive tuft of white hairs on the abdomen. They are known for their characteristic feeding pattern, which leaves behind a skeletonized leaf with only the veins remaining, as seen in the picture.  They are voracious feeders and can severely damage a wide variety of plants.","treatments":["Handpicking: Manually remove beetles from plants, especially in the early morning when they are less active. Dispose of them in soapy water.","Trapping: Use pheromone traps to lure and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in some cases.","Insecticidal Soap: Apply insecticidal soap directly to the beetles, covering their bodies thoroughly. Repeat applications as needed.","Neem Oil: Spray neem oil on plants according to label instructions. This acts as a natural insecticide and can help control beetle populations.","Biological Control: Introduce beneficial nematodes (Heterorhabditis bacteriophora) into the soil. These nematodes attack the beetle larvae.","Systemic Insecticides: Use systemic insecticides as a last resort, following label instructions carefully. These are more toxic and should be used only when other methods have failed."]}
+[2025-04-22 21:56:10] [INFO] Results saved to database successfully
+[2025-04-22 22:33:56] [INFO] API Key loaded successfully
+[2025-04-22 22:33:56] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpFDE3.tmp","error":0,"size":12807}
+[2025-04-22 22:33:56] [INFO] File saved successfully: C:\xampp new\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_6807fd3427113.jpg
+[2025-04-22 22:33:56] [INFO] Database record created with ID: 25
+[2025-04-22 22:33:56] [INFO] Image encoded successfully
+[2025-04-22 22:33:56] [INFO] Sending request to Gemini API
+[2025-04-22 22:34:00] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows a cluster of Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves where they consume the leaf tissue between the veins, leaving behind a lacy appearance.  Adults feed on a wide variety of plants, including roses, grapes, and many other ornamentals and vegetables.  They are particularly damaging to plants during the summer months.",
+  "treatments": [
+    "Handpicking: Manually collect and destroy the beetles, especially in the early morning when they are less active.",
+    "Trapping: Use Japanese beetle traps, but be aware that they can attract beetles from a wider area and potentially increase infestation in some cases.  Place traps away from valuable plants.",
+    "Insecticidal Soap: Apply insecticidal soap directly to the beetles.  Repeat applications may be necessary.",
+    "Neem Oil: Apply neem oil according to label instructions. This is a more environmentally friendly option.",
+    "Bacterium Bacillus thuringiensis (Bt):  Certain strains of Bt are effective against Japanese beetle larvae.  Apply to the soil to control grubs.",
+    "Systemic Insecticides:  Use only as a last resort and follow label instructions carefully.  These are more toxic to beneficial insects and the environment."
+  ]
+}
+```
+
+[2025-04-22 22:34:00] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows a cluster of Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves where they consume the leaf tissue between the veins, leaving behind a lacy appearance.  Adults feed on a wide variety of plants, including roses, grapes, and many other ornamentals and vegetables.  They are particularly damaging to plants during the summer months.","treatments":["Handpicking: Manually collect and destroy the beetles, especially in the early morning when they are less active.","Trapping: Use Japanese beetle traps, but be aware that they can attract beetles from a wider area and potentially increase infestation in some cases.  Place traps away from valuable plants.","Insecticidal Soap: Apply insecticidal soap directly to the beetles.  Repeat applications may be necessary.","Neem Oil: Apply neem oil according to label instructions. This is a more environmentally friendly option.","Bacterium Bacillus thuringiensis (Bt):  Certain strains of Bt are effective against Japanese beetle larvae.  Apply to the soil to control grubs.","Systemic Insecticides:  Use only as a last resort and follow label instructions carefully.  These are more toxic to beneficial insects and the environment."]}
+[2025-04-22 22:34:00] [INFO] Results saved to database successfully
+[2025-04-23 05:34:13] [INFO] API Key loaded successfully
+[2025-04-23 05:34:13] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpD52B.tmp","error":0,"size":12807}
+[2025-04-23 05:34:13] [INFO] File saved successfully: C:\xampp new\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_68085fb5077aa.jpg
+[2025-04-23 05:34:13] [INFO] Database record created with ID: 26
+[2025-04-23 05:34:13] [INFO] Image encoded successfully
+[2025-04-23 05:34:13] [INFO] Sending request to Gemini API
+[2025-04-23 05:34:17] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows multiple adult Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, which involves skeletonizing leaves, leaving behind only the leaf veins.  This is evident in the extensive damage visible on the leaf in the image.  Adult beetles feed on a wide variety of plants, including roses, grapes, and many other ornamentals and agricultural crops.",
+  "treatments": [
+    "Handpick beetles from plants, especially in the morning when they are less active. Drop them into a bucket of soapy water to kill them.",
+    "Use row covers to protect plants from adult beetles.",
+    "Apply insecticidal soap or neem oil sprays, targeting the beetles directly. Repeat applications as needed, following product instructions.",
+    "Consider using biological controls like milky spore disease (Bacillus popilliae) for long-term management of grubs in the soil. This is more effective for larval control.",
+    "For severe infestations, consult with a local agricultural extension office or pest control professional for advice on appropriate insecticides.  Note that chemical control should be a last resort due to potential harm to beneficial insects and the environment."
+  ]
+}
+```
+
+[2025-04-23 05:34:17] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows multiple adult Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, which involves skeletonizing leaves, leaving behind only the leaf veins.  This is evident in the extensive damage visible on the leaf in the image.  Adult beetles feed on a wide variety of plants, including roses, grapes, and many other ornamentals and agricultural crops.","treatments":["Handpick beetles from plants, especially in the morning when they are less active. Drop them into a bucket of soapy water to kill them.","Use row covers to protect plants from adult beetles.","Apply insecticidal soap or neem oil sprays, targeting the beetles directly. Repeat applications as needed, following product instructions.","Consider using biological controls like milky spore disease (Bacillus popilliae) for long-term management of grubs in the soil. This is more effective for larval control.","For severe infestations, consult with a local agricultural extension office or pest control professional for advice on appropriate insecticides.  Note that chemical control should be a last resort due to potential harm to beneficial insects and the environment."]}
+[2025-04-23 05:34:17] [INFO] Results saved to database successfully
+[2025-04-23 16:08:43] [INFO] API Key loaded successfully
+[2025-04-23 16:08:43] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpC284.tmp","error":0,"size":12807}
+[2025-04-23 16:08:43] [INFO] File saved successfully: C:\xampp new\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_6808f46bb0a33.jpg
+[2025-04-23 16:08:43] [INFO] Database record created with ID: 27
+[2025-04-23 16:08:43] [INFO] Image encoded successfully
+[2025-04-23 16:08:43] [INFO] Sending request to Gemini API
+[2025-04-23 16:08:52] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows a cluster of Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green and copper-colored, approximately 1/2 inch long.  They are known for their characteristic feeding pattern, which creates a skeletonized appearance on leaves, leaving only the veins intact, as seen in the image.  Adults feed on foliage, flowers, and fruits of a wide variety of plants.",
+  "treatments": [
+    "Handpick and destroy beetles:  Manually remove beetles from plants, especially in the morning when they are less active. Drop them into a bucket of soapy water to kill them.",
+    "Use insecticidal soap or neem oil: Apply these organic pesticides according to label instructions, targeting the beetles directly. Repeated applications may be necessary.",
+    "Bacillus thuringiensis (Bt): This bacterium is effective against Japanese beetle grubs in the soil. Apply according to label instructions.",
+    "Milky Spore Disease (Bacillus popilliae): A biological control that infects and kills Japanese beetle grubs. This is a long-term solution and may take several years to become fully effective.",
+    "Traps: While traps can help monitor populations, they can also attract beetles from surrounding areas, potentially increasing infestation in some cases. Use with caution and consider their limitations.",
+    "Cultural controls: Healthy plants are more resistant to damage. Ensure proper watering and fertilization to promote vigorous growth."
+  ]
+}
+```
+
+[2025-04-23 16:08:52] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows a cluster of Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green and copper-colored, approximately 1\/2 inch long.  They are known for their characteristic feeding pattern, which creates a skeletonized appearance on leaves, leaving only the veins intact, as seen in the image.  Adults feed on foliage, flowers, and fruits of a wide variety of plants.","treatments":["Handpick and destroy beetles:  Manually remove beetles from plants, especially in the morning when they are less active. Drop them into a bucket of soapy water to kill them.","Use insecticidal soap or neem oil: Apply these organic pesticides according to label instructions, targeting the beetles directly. Repeated applications may be necessary.","Bacillus thuringiensis (Bt): This bacterium is effective against Japanese beetle grubs in the soil. Apply according to label instructions.","Milky Spore Disease (Bacillus popilliae): A biological control that infects and kills Japanese beetle grubs. This is a long-term solution and may take several years to become fully effective.","Traps: While traps can help monitor populations, they can also attract beetles from surrounding areas, potentially increasing infestation in some cases. Use with caution and consider their limitations.","Cultural controls: Healthy plants are more resistant to damage. Ensure proper watering and fertilization to promote vigorous growth."]}
+[2025-04-23 16:08:52] [INFO] Results saved to database successfully
+[2025-04-25 09:50:21] [INFO] API Key loaded successfully
+[2025-04-25 09:50:21] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\php1689.tmp","error":0,"size":12807}
+[2025-04-25 09:50:21] [INFO] File saved successfully: C:\xampp new\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680b3ebd5edbd.jpg
+[2025-04-25 09:50:21] [INFO] Database record created with ID: 29
+[2025-04-25 09:50:21] [INFO] Image encoded successfully
+[2025-04-25 09:50:21] [INFO] Sending request to Gemini API
+[2025-04-25 09:50:25] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows a cluster of Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green and copper-colored, with a distinctive tuft of white hairs on the sides of their abdomen.  They are known for their skeletonizing feeding pattern, where they consume the leaf tissue between the veins, leaving behind a lacy skeleton of the leaf.  This feeding can cause significant damage to plants, especially when infestations are large.",
+  "treatments": [
+    "Handpick beetles and drop them into a bucket of soapy water.",
+    "Use insecticidal soap or neem oil sprays, targeting beetles directly.",
+    "Apply a bacterial insecticide containing Bacillus thuringiensis (Bt) specifically targeting Japanese beetles. Note: this is most effective on larvae.",
+    "Consider using pheromone traps to monitor populations and potentially attract beetles away from plants.  Note: Traps may attract more beetles to the area if not used strategically.",
+    "Encourage beneficial insects and birds that prey on Japanese beetles.",
+    "Remove or till the soil around plants to disrupt the larvae's life cycle in the fall or early spring.",
+    "Use row covers to protect plants from adult beetles."
+  ]
+}
+```
+
+[2025-04-25 09:50:25] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows a cluster of Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green and copper-colored, with a distinctive tuft of white hairs on the sides of their abdomen.  They are known for their skeletonizing feeding pattern, where they consume the leaf tissue between the veins, leaving behind a lacy skeleton of the leaf.  This feeding can cause significant damage to plants, especially when infestations are large.","treatments":["Handpick beetles and drop them into a bucket of soapy water.","Use insecticidal soap or neem oil sprays, targeting beetles directly.","Apply a bacterial insecticide containing Bacillus thuringiensis (Bt) specifically targeting Japanese beetles. Note: this is most effective on larvae.","Consider using pheromone traps to monitor populations and potentially attract beetles away from plants.  Note: Traps may attract more beetles to the area if not used strategically.","Encourage beneficial insects and birds that prey on Japanese beetles.","Remove or till the soil around plants to disrupt the larvae's life cycle in the fall or early spring.","Use row covers to protect plants from adult beetles."]}
+[2025-04-25 09:50:25] [INFO] Results saved to database successfully
+[2025-04-25 14:30:02] [INFO] API Key loaded successfully
+[2025-04-25 14:30:02] [INFO] File upload received: {"name":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","full_path":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\php9A00.tmp","error":0,"size":29712}
+[2025-04-28 19:28:35] [INFO] API Key loaded successfully
+[2025-04-28 19:28:35] [INFO] File upload received: {"name":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","full_path":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\php49F8.tmp","error":0,"size":29712}
+[2025-04-28 19:38:09] [INFO] API Key loaded successfully
+[2025-04-28 19:38:09] [INFO] File upload received: {"name":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","full_path":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\phpB61.tmp","error":0,"size":29712}
+[2025-04-28 19:52:00] [INFO] API Key loaded successfully
+[2025-04-28 19:52:00] [INFO] File upload received: {"name":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","full_path":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\phpBB56.tmp","error":0,"size":29712}
+[2025-04-28 19:54:47] [INFO] API Key loaded successfully
+[2025-04-28 19:54:47] [INFO] File upload received: {"name":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","full_path":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\php451E.tmp","error":0,"size":29712}
+[2025-04-28 19:57:06] [INFO] API Key loaded successfully
+[2025-04-28 19:57:06] [INFO] File upload received: {"name":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","full_path":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\php65EC.tmp","error":0,"size":29712}
+[2025-04-28 19:57:15] [INFO] API Key loaded successfully
+[2025-04-28 19:57:15] [INFO] File upload received: {"name":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","full_path":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\php8760.tmp","error":0,"size":29712}
+[2025-04-28 19:57:24] [INFO] API Key loaded successfully
+[2025-04-28 19:57:24] [INFO] File upload received: {"name":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","full_path":"Larvae-potato-beetle-feeding-leaves-Colorado.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\phpAC0F.tmp","error":0,"size":29712}
+[2025-04-28 19:58:34] [INFO] API Key loaded successfully
+[2025-04-28 19:58:34] [INFO] File upload received: {"name":"WhatsApp Image 2025-04-25 at 01.27.10.jpeg","full_path":"WhatsApp Image 2025-04-25 at 01.27.10.jpeg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpBE2C.tmp","error":0,"size":150897}
+[2025-04-28 19:58:34] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fc1cad7850.jpeg
+[2025-04-28 20:02:11] [INFO] API Key loaded successfully
+[2025-04-28 20:02:11] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpA89.tmp","error":0,"size":6771}
+[2025-04-28 20:02:11] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fc2a30bed9.jpg
+[2025-04-28 20:04:38] [INFO] API Key loaded successfully
+[2025-04-28 20:04:38] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php48D2.tmp","error":0,"size":6771}
+[2025-04-28 20:04:38] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fc3360e634.jpg
+[2025-04-28 20:04:38] [INFO] Database record created with ID: 1
+[2025-04-28 20:04:38] [INFO] Image encoded successfully
+[2025-04-28 20:04:38] [INFO] Sending request to Gemini API
+[2025-04-28 20:04:42] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their backs.  Both adults and larvae feed on the leaves, stems, and flowers of the plant, causing significant damage and defoliation.  Heavy infestations can severely reduce crop yields.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae.  Repeat applications may be necessary.",
+    "Introducing beneficial insects such as ladybugs or lacewings that prey on the beetle larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae.",
+    "Using chemical insecticides as a last resort, following label instructions carefully and considering the environmental impact.",
+    "Rotating crops to disrupt the beetle's life cycle.",
+    "Planting resistant potato varieties if available."
+  ]
+}
+```
+
+[2025-04-28 20:04:42] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their backs.  Both adults and larvae feed on the leaves, stems, and flowers of the plant, causing significant damage and defoliation.  Heavy infestations can severely reduce crop yields.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae.  Repeat applications may be necessary.","Introducing beneficial insects such as ladybugs or lacewings that prey on the beetle larvae.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae.","Using chemical insecticides as a last resort, following label instructions carefully and considering the environmental impact.","Rotating crops to disrupt the beetle's life cycle.","Planting resistant potato varieties if available."]}
+[2025-04-28 20:04:42] [INFO] Results saved to database successfully
+[2025-04-28 20:05:04] [INFO] API Key loaded successfully
+[2025-04-28 20:05:04] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpB141.tmp","error":0,"size":6771}
+[2025-04-28 20:05:04] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fc350c10d7.jpg
+[2025-04-28 20:05:04] [INFO] Database record created with ID: 2
+[2025-04-28 20:05:04] [INFO] Image encoded successfully
+[2025-04-28 20:05:04] [INFO] Sending request to Gemini API
+[2025-04-28 20:05:09] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have yellow-orange elytra (wing covers) with five black stripes on each.  The larvae are reddish-brown with two rows of dark spots along their sides. Both adults and larvae feed on the leaves, stems, and flowers of the plant, causing significant damage and reducing yields.  The characteristic damage seen is the skeletonization of leaves, leaving only the veins intact.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.",
+    "Introducing beneficial insects like ladybugs or lacewings, which prey on beetle larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae.",
+    "Using row covers to protect plants from adult beetles laying eggs.",
+    "Rotating crops to disrupt the beetle's life cycle.",
+    "Employing resistant potato varieties if available in your region.",
+    "Consider using chemical insecticides as a last resort, following label instructions carefully and choosing products with the least environmental impact."
+  ]
+}
+```
+
+[2025-04-28 20:05:09] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have yellow-orange elytra (wing covers) with five black stripes on each.  The larvae are reddish-brown with two rows of dark spots along their sides. Both adults and larvae feed on the leaves, stems, and flowers of the plant, causing significant damage and reducing yields.  The characteristic damage seen is the skeletonization of leaves, leaving only the veins intact.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.","Introducing beneficial insects like ladybugs or lacewings, which prey on beetle larvae.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae.","Using row covers to protect plants from adult beetles laying eggs.","Rotating crops to disrupt the beetle's life cycle.","Employing resistant potato varieties if available in your region.","Consider using chemical insecticides as a last resort, following label instructions carefully and choosing products with the least environmental impact."]}
+[2025-04-28 20:05:09] [INFO] Results saved to database successfully
+[2025-04-28 20:36:40] [INFO] API Key loaded successfully
+[2025-04-28 20:36:40] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php9CD4.tmp","error":0,"size":6771}
+[2025-04-28 20:36:40] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fcab813e28.jpg
+[2025-04-28 20:36:40] [INFO] Database record created with ID: 3
+[2025-04-28 20:36:40] [INFO] Image encoded successfully
+[2025-04-28 20:36:40] [INFO] Sending request to Gemini API
+[2025-04-28 20:36:43] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.99,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but it also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have yellowish-brown elytra (wing covers) with five black stripes on each side.  The larvae are reddish-brown with two rows of dark spots along their backs. Both adults and larvae feed on the leaves, stems, and flowers of potato plants, causing significant damage and reducing yields.  The characteristic feeding damage shows as holes and skeletonization of leaves.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae.  Repeat applications may be necessary.",
+    "Introducing beneficial insects like ladybugs or lacewings that prey on the beetle larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae but generally harmless to other insects and humans.",
+    "Using row covers to protect young plants from adult beetles.",
+    "Employing resistant potato varieties if available in your area.",
+    "Consider using chemical insecticides as a last resort, following all label instructions carefully and prioritizing environmentally friendly options."
+  ]
+}
+```
+
+[2025-04-28 20:36:43] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.99,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but it also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have yellowish-brown elytra (wing covers) with five black stripes on each side.  The larvae are reddish-brown with two rows of dark spots along their backs. Both adults and larvae feed on the leaves, stems, and flowers of potato plants, causing significant damage and reducing yields.  The characteristic feeding damage shows as holes and skeletonization of leaves.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae.  Repeat applications may be necessary.","Introducing beneficial insects like ladybugs or lacewings that prey on the beetle larvae.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae but generally harmless to other insects and humans.","Using row covers to protect young plants from adult beetles.","Employing resistant potato varieties if available in your area.","Consider using chemical insecticides as a last resort, following all label instructions carefully and prioritizing environmentally friendly options."]}
+[2025-04-28 20:36:43] [INFO] Results saved to database successfully
+[2025-04-28 20:37:51] [INFO] API Key loaded successfully
+[2025-04-28 20:37:51] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpB29B.tmp","error":0,"size":6771}
+[2025-04-28 20:37:51] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fcaff32cec.jpg
+[2025-04-28 20:37:51] [INFO] Database record created with ID: 4
+[2025-04-28 20:37:51] [INFO] Image encoded successfully
+[2025-04-28 20:37:51] [INFO] Sending request to Gemini API
+[2025-04-28 20:37:54] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have ten black stripes on their yellowish-orange elytra (wing covers).  Their larvae are reddish-brown with two rows of dark spots along their backs.  Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and defoliation.  Heavy infestations can severely reduce crop yields.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, following label instructions carefully.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae.",
+    "Introducing beneficial insects such as ladybugs or lacewings that prey on the beetle larvae.",
+    "Using row covers to protect plants from adult beetles.",
+    "Planting resistant potato varieties if available.",
+    "Consider using chemical insecticides as a last resort, choosing products that are least harmful to beneficial insects and the environment, and always following label instructions meticulously."
+  ]
+}
+```
+
+[2025-04-28 20:37:54] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have ten black stripes on their yellowish-orange elytra (wing covers).  Their larvae are reddish-brown with two rows of dark spots along their backs.  Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and defoliation.  Heavy infestations can severely reduce crop yields.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, following label instructions carefully.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae.","Introducing beneficial insects such as ladybugs or lacewings that prey on the beetle larvae.","Using row covers to protect plants from adult beetles.","Planting resistant potato varieties if available.","Consider using chemical insecticides as a last resort, choosing products that are least harmful to beneficial insects and the environment, and always following label instructions meticulously."]}
+[2025-04-28 20:37:54] [INFO] Results saved to database successfully
+[2025-04-28 20:39:51] [INFO] API Key loaded successfully
+[2025-04-28 20:39:51] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php871D.tmp","error":0,"size":6771}
+[2025-04-28 20:39:51] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fcb771e387.jpg
+[2025-04-28 20:39:51] [INFO] Database record created with ID: 5
+[2025-04-28 20:39:51] [INFO] Image encoded successfully
+[2025-04-28 20:39:51] [INFO] Sending request to Gemini API
+[2025-04-28 20:39:55] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The image shows a Colorado potato beetle (Leptinotarsa decemlineata).  This beetle is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), including tomatoes, eggplants, and peppers. Adults are about 1/2 inch long, oval-shaped, and have ten black stripes on their yellowish-brown elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their sides. Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and reducing yields.  The characteristic damage visible in the image is the leaf skeletonization.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.",
+    "Introducing beneficial insects such as ladybugs or lacewings, which prey on Colorado potato beetle eggs and larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to Colorado potato beetle larvae.",
+    "Using chemical insecticides as a last resort, following label instructions carefully and considering the impact on beneficial insects and the environment.  Choose insecticides that are specific to Colorado potato beetles if possible.",
+    "Rotating crops to disrupt the beetle's life cycle. Avoid planting potatoes or other susceptible plants in the same location for several years.",
+    "Using row covers to protect young plants from beetle infestations."
+  ]
+}
+```
+
+[2025-04-28 20:39:55] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The image shows a Colorado potato beetle (Leptinotarsa decemlineata).  This beetle is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), including tomatoes, eggplants, and peppers. Adults are about 1\/2 inch long, oval-shaped, and have ten black stripes on their yellowish-brown elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their sides. Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and reducing yields.  The characteristic damage visible in the image is the leaf skeletonization.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.","Introducing beneficial insects such as ladybugs or lacewings, which prey on Colorado potato beetle eggs and larvae.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to Colorado potato beetle larvae.","Using chemical insecticides as a last resort, following label instructions carefully and considering the impact on beneficial insects and the environment.  Choose insecticides that are specific to Colorado potato beetles if possible.","Rotating crops to disrupt the beetle's life cycle. Avoid planting potatoes or other susceptible plants in the same location for several years.","Using row covers to protect young plants from beetle infestations."]}
+[2025-04-28 20:39:55] [INFO] Results saved to database successfully
+[2025-04-28 20:42:34] [INFO] API Key loaded successfully
+[2025-04-28 20:42:34] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php463.tmp","error":0,"size":6771}
+[2025-04-28 20:42:34] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fcc1a43d89.jpg
+[2025-04-28 20:42:34] [INFO] Database record created with ID: 6
+[2025-04-28 20:42:34] [INFO] Image encoded successfully
+[2025-04-28 20:42:34] [INFO] Sending request to Gemini API
+[2025-04-28 20:42:38] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have a distinctive pattern of ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are soft-bodied, reddish-orange, and have two rows of dark spots along their backs.  Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and reducing yields.  Heavy infestations can completely defoliate plants.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.",
+    "Introducing beneficial insects such as ladybugs or lacewings that prey on beetle larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a bacterium toxic to beetle larvae but generally safe for beneficial insects and humans.",
+    "Using insecticidal dusts containing spinosad or pyrethrin, but be mindful of environmental impact and potential harm to pollinators.",
+    "Planting resistant potato varieties, if available.",
+    "Rotating crops to disrupt the beetle's life cycle.",
+    "Using row covers to protect young plants from adult beetles."
+  ]
+}
+```
+
+[2025-04-28 20:42:38] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have a distinctive pattern of ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are soft-bodied, reddish-orange, and have two rows of dark spots along their backs.  Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and reducing yields.  Heavy infestations can completely defoliate plants.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.","Introducing beneficial insects such as ladybugs or lacewings that prey on beetle larvae.","Applying Bacillus thuringiensis (Bt) products, a bacterium toxic to beetle larvae but generally safe for beneficial insects and humans.","Using insecticidal dusts containing spinosad or pyrethrin, but be mindful of environmental impact and potential harm to pollinators.","Planting resistant potato varieties, if available.","Rotating crops to disrupt the beetle's life cycle.","Using row covers to protect young plants from adult beetles."]}
+[2025-04-28 20:42:38] [INFO] Results saved to database successfully
+[2025-04-28 20:44:26] [INFO] API Key loaded successfully
+[2025-04-28 20:44:26] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpBA13.tmp","error":0,"size":6771}
+[2025-04-28 20:44:26] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fcc8a4aef9.jpg
+[2025-04-28 20:44:26] [INFO] Database record created with ID: 7
+[2025-04-28 20:44:26] [INFO] Image encoded successfully
+[2025-04-28 20:44:26] [INFO] Sending request to Gemini API
+[2025-04-28 20:44:31] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have yellowish-tan elytra (wing covers) with five black stripes running lengthwise on each.  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the plant, causing significant damage and reducing yields.  The characteristic damage is the skeletonization of leaves, leaving only the veins intact.",
+  "treatments": [
+    "Handpicking: Manually remove adult beetles and larvae from plants, especially early in the infestation.",
+    "Row covers: Use row covers to protect young plants from adult beetles.",
+    "Biological control: Introduce beneficial insects like ladybugs or lacewings that prey on beetle eggs and larvae.",
+    "Bacillus thuringiensis (Bt): Apply Bt-based insecticides, which are effective against beetle larvae.  Choose a formulation specifically targeting Colorado potato beetles.",
+    "Spinosad: Use spinosad, a naturally derived insecticide, to control both larvae and adults.",
+    "Neem oil: Apply neem oil as a contact insecticide, disrupting the beetle's life cycle.",
+    "Insecticidal soap: Use insecticidal soap to control young larvae and adults.",
+    "Crop rotation: Avoid planting potatoes or other solanaceous crops in the same area for several years to disrupt the beetle's life cycle."
+  ]
+}
+```
+
+[2025-04-28 20:44:31] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have yellowish-tan elytra (wing covers) with five black stripes running lengthwise on each.  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the plant, causing significant damage and reducing yields.  The characteristic damage is the skeletonization of leaves, leaving only the veins intact.","treatments":["Handpicking: Manually remove adult beetles and larvae from plants, especially early in the infestation.","Row covers: Use row covers to protect young plants from adult beetles.","Biological control: Introduce beneficial insects like ladybugs or lacewings that prey on beetle eggs and larvae.","Bacillus thuringiensis (Bt): Apply Bt-based insecticides, which are effective against beetle larvae.  Choose a formulation specifically targeting Colorado potato beetles.","Spinosad: Use spinosad, a naturally derived insecticide, to control both larvae and adults.","Neem oil: Apply neem oil as a contact insecticide, disrupting the beetle's life cycle.","Insecticidal soap: Use insecticidal soap to control young larvae and adults.","Crop rotation: Avoid planting potatoes or other solanaceous crops in the same area for several years to disrupt the beetle's life cycle."]}
+[2025-04-28 20:44:31] [INFO] Results saved to database successfully
+[2025-04-28 20:47:01] [INFO] API Key loaded successfully
+[2025-04-28 20:47:01] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php1A1C.tmp","error":0,"size":6771}
+[2025-04-28 20:47:01] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fcd25eebde.jpg
+[2025-04-28 20:47:01] [INFO] Database record created with ID: 8
+[2025-04-28 20:47:01] [INFO] Image encoded successfully
+[2025-04-28 20:47:01] [INFO] Sending request to Gemini API
+[2025-04-28 20:47:06] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have ten black stripes on their yellowish-orange elytra (wing covers).  Larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of plants, causing significant damage and defoliation.  Heavy infestations can severely reduce crop yields.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.",
+    "Introducing beneficial insects like ladybugs or lacewings that prey on the beetle's eggs and larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to Colorado potato beetle larvae.",
+    "Using insecticidal dusts containing spinosad or pyrethroids as a last resort, following label instructions carefully.",
+    "Rotating crops to break the pest's life cycle.",
+    "Using row covers to protect young plants from beetle infestations."
+  ]
+}
+```
+
+[2025-04-28 20:47:06] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have ten black stripes on their yellowish-orange elytra (wing covers).  Larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of plants, causing significant damage and defoliation.  Heavy infestations can severely reduce crop yields.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.","Introducing beneficial insects like ladybugs or lacewings that prey on the beetle's eggs and larvae.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to Colorado potato beetle larvae.","Using insecticidal dusts containing spinosad or pyrethroids as a last resort, following label instructions carefully.","Rotating crops to break the pest's life cycle.","Using row covers to protect young plants from beetle infestations."]}
+[2025-04-28 20:47:06] [INFO] Results saved to database successfully
+[2025-04-28 20:48:46] [INFO] API Key loaded successfully
+[2025-04-28 20:48:46] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpB2BE.tmp","error":0,"size":6771}
+[2025-04-28 20:48:46] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fcd8e8d6db.jpg
+[2025-04-28 20:48:46] [INFO] Database record created with ID: 9
+[2025-04-28 20:48:46] [INFO] Image encoded successfully
+[2025-04-28 20:48:46] [INFO] Sending request to Gemini API
+[2025-04-28 20:48:50] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.99,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and yellowish-brown with ten black stripes along their wing covers.  The larvae are reddish-brown with two rows of dark spots along their sides. Both adults and larvae feed on the leaves of plants, causing significant defoliation which can severely impact plant growth and yield.  The damage is characterized by irregular holes and skeletonization of the leaves.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae.  Repeat applications may be necessary.",
+    "Introducing beneficial insects such as ladybugs or lacewings which prey on the beetle's eggs and larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a bacterium that is toxic to beetle larvae but generally safe for other insects and beneficial organisms.",
+    "Using chemical insecticides as a last resort, following label instructions carefully and considering the potential impact on beneficial insects and the environment.  Rotate insecticides to prevent resistance development."
+  ]
+}
+```
+
+[2025-04-28 20:48:50] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.99,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and yellowish-brown with ten black stripes along their wing covers.  The larvae are reddish-brown with two rows of dark spots along their sides. Both adults and larvae feed on the leaves of plants, causing significant defoliation which can severely impact plant growth and yield.  The damage is characterized by irregular holes and skeletonization of the leaves.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae.  Repeat applications may be necessary.","Introducing beneficial insects such as ladybugs or lacewings which prey on the beetle's eggs and larvae.","Applying Bacillus thuringiensis (Bt) products, a bacterium that is toxic to beetle larvae but generally safe for other insects and beneficial organisms.","Using chemical insecticides as a last resort, following label instructions carefully and considering the potential impact on beneficial insects and the environment.  Rotate insecticides to prevent resistance development."]}
+[2025-04-28 20:48:50] [INFO] Results saved to database successfully
+[2025-04-28 20:50:36] [INFO] API Key loaded successfully
+[2025-04-28 20:50:36] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php61C7.tmp","error":0,"size":6771}
+[2025-04-28 20:50:36] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fcdfce45c9.jpg
+[2025-04-28 20:50:36] [INFO] Database record created with ID: 10
+[2025-04-28 20:50:36] [INFO] Image encoded successfully
+[2025-04-28 20:50:36] [INFO] Sending request to Gemini API
+[2025-04-28 20:50:41] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have a yellowish-brown to tan body with five black stripes on each wing cover.  The larvae are soft-bodied, orange-red with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves of the plant, causing significant defoliation and impacting plant growth and yield.  The characteristic damage is the skeletonization of leaves, where the beetle leaves behind only the leaf veins.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae.  Repeat applications may be necessary.",
+    "Introducing beneficial insects like ladybugs or lacewings that prey on the beetle larvae.",
+    "Applying Bacillus thuringiensis (Bt) based insecticides, which are specifically toxic to beetle larvae.",
+    "Using row covers to protect plants from adult beetles laying eggs.",
+    "Planting resistant potato varieties, if available in your region.",
+    "Rotating crops to break the pest's life cycle. Avoid planting potatoes or other Solanaceae plants in the same area for several years."
+  ]
+}
+```
+
+[2025-04-28 20:50:41] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have a yellowish-brown to tan body with five black stripes on each wing cover.  The larvae are soft-bodied, orange-red with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves of the plant, causing significant defoliation and impacting plant growth and yield.  The characteristic damage is the skeletonization of leaves, where the beetle leaves behind only the leaf veins.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae.  Repeat applications may be necessary.","Introducing beneficial insects like ladybugs or lacewings that prey on the beetle larvae.","Applying Bacillus thuringiensis (Bt) based insecticides, which are specifically toxic to beetle larvae.","Using row covers to protect plants from adult beetles laying eggs.","Planting resistant potato varieties, if available in your region.","Rotating crops to break the pest's life cycle. Avoid planting potatoes or other Solanaceae plants in the same area for several years."]}
+[2025-04-28 20:50:41] [INFO] Results saved to database successfully
+[2025-04-28 20:53:40] [INFO] API Key loaded successfully
+[2025-04-28 20:53:40] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php2FDC.tmp","error":0,"size":6771}
+[2025-04-28 20:53:40] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fceb4b79fa.jpg
+[2025-04-28 20:53:40] [INFO] Database record created with ID: 11
+[2025-04-28 20:53:40] [INFO] Image encoded successfully
+[2025-04-28 20:53:40] [INFO] Sending request to Gemini API
+[2025-04-28 20:53:45] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have tan to orange-yellow elytra (wing covers) with five black stripes running lengthwise on each.  The larvae are soft-bodied, and range in color from reddish-brown to nearly black.  They have two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant defoliation and reducing yield.  Heavy infestations can completely defoliate plants.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.",
+    "Introducing beneficial insects like ladybugs or lacewings that prey on the beetle larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae.",
+    "Using chemical insecticides as a last resort, following label instructions carefully and considering the environmental impact.  Choose a product specifically targeting Colorado potato beetles.",
+    "Rotating crops to disrupt the beetle's life cycle.",
+    "Using row covers to protect young plants from infestation.",
+    "Planting resistant potato varieties if available."
+  ]
+}
+```
+
+[2025-04-28 20:53:45] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have tan to orange-yellow elytra (wing covers) with five black stripes running lengthwise on each.  The larvae are soft-bodied, and range in color from reddish-brown to nearly black.  They have two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant defoliation and reducing yield.  Heavy infestations can completely defoliate plants.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.","Introducing beneficial insects like ladybugs or lacewings that prey on the beetle larvae.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae.","Using chemical insecticides as a last resort, following label instructions carefully and considering the environmental impact.  Choose a product specifically targeting Colorado potato beetles.","Rotating crops to disrupt the beetle's life cycle.","Using row covers to protect young plants from infestation.","Planting resistant potato varieties if available."]}
+[2025-04-28 20:53:45] [INFO] Results saved to database successfully
+[2025-04-28 20:56:19] [INFO] API Key loaded successfully
+[2025-04-28 20:56:19] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php9B6E.tmp","error":0,"size":6771}
+[2025-04-28 20:56:19] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fcf53581c1.jpg
+[2025-04-28 20:56:19] [INFO] Database record created with ID: 12
+[2025-04-28 20:56:19] [INFO] Image encoded successfully
+[2025-04-28 20:56:19] [INFO] Sending request to Gemini API
+[2025-04-28 20:56:24] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their backs. Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and reducing yields.  The characteristic damage seen in the image is leaf skeletonization (eating the leaf tissue between the veins).",
+  "treatments": [
+    "Handpicking and destroying beetles and larvae:  This is effective for small infestations.",
+    "Use of insecticidal soap or neem oil: These organic options are less harmful to beneficial insects and the environment, but may require repeated applications.",
+    "Bacillus thuringiensis (Bt) application: This is a naturally occurring bacterium that is toxic to Colorado potato beetles but generally safe for other organisms.  Follow product instructions carefully.",
+    "Application of chemical insecticides:  Use only as a last resort and follow all label instructions carefully.  Choose a product specifically labeled for Colorado potato beetles and rotate insecticides to prevent resistance.",
+    "Crop rotation: Avoid planting potatoes or other nightshade crops in the same area for several years to disrupt the beetle's life cycle.",
+    "Use of resistant potato varieties: Some potato varieties exhibit some level of resistance to Colorado potato beetles."
+  ]
+}
+```
+
+[2025-04-28 20:56:24] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their backs. Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and reducing yields.  The characteristic damage seen in the image is leaf skeletonization (eating the leaf tissue between the veins).","treatments":["Handpicking and destroying beetles and larvae:  This is effective for small infestations.","Use of insecticidal soap or neem oil: These organic options are less harmful to beneficial insects and the environment, but may require repeated applications.","Bacillus thuringiensis (Bt) application: This is a naturally occurring bacterium that is toxic to Colorado potato beetles but generally safe for other organisms.  Follow product instructions carefully.","Application of chemical insecticides:  Use only as a last resort and follow all label instructions carefully.  Choose a product specifically labeled for Colorado potato beetles and rotate insecticides to prevent resistance.","Crop rotation: Avoid planting potatoes or other nightshade crops in the same area for several years to disrupt the beetle's life cycle.","Use of resistant potato varieties: Some potato varieties exhibit some level of resistance to Colorado potato beetles."]}
+[2025-04-28 20:56:24] [INFO] Results saved to database successfully
+[2025-04-28 20:59:35] [INFO] API Key loaded successfully
+[2025-04-28 20:59:35] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php999C.tmp","error":0,"size":6771}
+[2025-04-28 20:59:35] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fd0177c8d7.jpg
+[2025-04-28 20:59:35] [INFO] Database record created with ID: 13
+[2025-04-28 20:59:35] [INFO] Image encoded successfully
+[2025-04-28 20:59:35] [INFO] Sending request to Gemini API
+[2025-04-28 20:59:39] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have yellow-orange elytra (wing covers) with five black stripes on each.  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the plant, causing significant damage and reducing yield.  The characteristic damage is the skeletonization of leaves, leaving only the veins intact.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays.  Apply thoroughly to both the upper and lower leaf surfaces, and repeat as needed.",
+    "Introducing beneficial insects such as ladybugs or lacewings that prey on the beetles and larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to Colorado potato beetle larvae.  This is a more environmentally friendly option than synthetic insecticides.",
+    "Using row covers to protect young plants from adult beetles.",
+    "Planting resistant potato varieties, if available in your region.",
+    "Consider using traps baited with pheromones to monitor the population and attract beetles away from the plants."
+  ]
+}
+```
+
+[2025-04-28 20:59:39] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have yellow-orange elytra (wing covers) with five black stripes on each.  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the plant, causing significant damage and reducing yield.  The characteristic damage is the skeletonization of leaves, leaving only the veins intact.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays.  Apply thoroughly to both the upper and lower leaf surfaces, and repeat as needed.","Introducing beneficial insects such as ladybugs or lacewings that prey on the beetles and larvae.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to Colorado potato beetle larvae.  This is a more environmentally friendly option than synthetic insecticides.","Using row covers to protect young plants from adult beetles.","Planting resistant potato varieties, if available in your region.","Consider using traps baited with pheromones to monitor the population and attract beetles away from the plants."]}
+[2025-04-28 20:59:39] [INFO] Results saved to database successfully
+[2025-04-28 21:01:24] [INFO] API Key loaded successfully
+[2025-04-28 21:01:24] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php4317.tmp","error":0,"size":6771}
+[2025-04-28 21:01:24] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fd084674d4.jpg
+[2025-04-28 21:01:24] [INFO] Database record created with ID: 14
+[2025-04-28 21:01:24] [INFO] Image encoded successfully
+[2025-04-28 21:01:24] [INFO] Sending request to Gemini API
+[2025-04-28 21:01:28] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have yellow to tan elytra (wing covers) with five black stripes running lengthwise down each. The larvae are reddish-brown with two rows of dark spots along their sides.  They feed on the leaves, stems, and flowers of plants, causing significant damage and potentially killing the plant if infestations are severe.  The characteristic damage seen in the image is leaf skeletonization (eating away the leaf tissue between the veins).",
+  "treatments": [
+    "Handpicking and destroying beetles and larvae.",
+    "Use of insecticidal soap or neem oil sprays, particularly targeting young larvae.",
+    "Application of Bacillus thuringiensis (Bt) products, a biological insecticide that is effective against beetle larvae.",
+    "Planting resistant potato varieties.",
+    "Use of row covers to protect plants from adult beetles.",
+    "Employing beneficial insects such as ladybugs or lacewings that prey on beetle eggs and larvae.",
+    "If infestations are severe, consider using chemical insecticides as a last resort. Always follow label instructions carefully and choose products with minimal environmental impact."
+  ]
+}
+```
+
+[2025-04-28 21:01:28] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have yellow to tan elytra (wing covers) with five black stripes running lengthwise down each. The larvae are reddish-brown with two rows of dark spots along their sides.  They feed on the leaves, stems, and flowers of plants, causing significant damage and potentially killing the plant if infestations are severe.  The characteristic damage seen in the image is leaf skeletonization (eating away the leaf tissue between the veins).","treatments":["Handpicking and destroying beetles and larvae.","Use of insecticidal soap or neem oil sprays, particularly targeting young larvae.","Application of Bacillus thuringiensis (Bt) products, a biological insecticide that is effective against beetle larvae.","Planting resistant potato varieties.","Use of row covers to protect plants from adult beetles.","Employing beneficial insects such as ladybugs or lacewings that prey on beetle eggs and larvae.","If infestations are severe, consider using chemical insecticides as a last resort. Always follow label instructions carefully and choose products with minimal environmental impact."]}
+[2025-04-28 21:01:28] [INFO] Results saved to database successfully
+[2025-04-28 21:05:56] [INFO] API Key loaded successfully
+[2025-04-28 21:05:56] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php6B1F.tmp","error":0,"size":6771}
+[2025-04-28 21:05:56] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fd194ca1b8.jpg
+[2025-04-28 21:05:56] [INFO] Database record created with ID: 15
+[2025-04-28 21:05:56] [INFO] Image encoded successfully
+[2025-04-28 21:05:56] [INFO] Sending request to Gemini API
+[2025-04-28 21:06:01] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.99,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, as well as other plants in the nightshade family (Solanaceae), including tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have a distinctive pattern of ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and defoliation.  Heavy infestations can severely reduce yields and even kill plants.",
+  "treatments": [
+    "Handpicking and destroying beetles and larvae: This is effective for small infestations.",
+    "Use of insecticidal soap or neem oil: These are relatively safe and effective against young larvae and adults. Apply thoroughly to both the upper and lower leaf surfaces.",
+    "Biological control: Introduce beneficial insects such as ladybugs or lacewings that prey on the beetle's eggs and larvae.",
+    "Bacillus thuringiensis (Bt): This is a bacterium that produces toxins lethal to Colorado potato beetle larvae. Apply as directed on the product label.",
+    "Chemical insecticides: Use only as a last resort and choose a product that is specific to the Colorado potato beetle and follows all label instructions. Consider the impact on beneficial insects and the environment.",
+    "Crop rotation: Avoid planting potatoes or other susceptible crops in the same area for several years to disrupt the beetle's life cycle.",
+    "Resistant varieties: Plant potato varieties that show some resistance to Colorado potato beetle damage."
+  ]
+}
+```
+
+[2025-04-28 21:06:01] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.99,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, as well as other plants in the nightshade family (Solanaceae), including tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have a distinctive pattern of ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and defoliation.  Heavy infestations can severely reduce yields and even kill plants.","treatments":["Handpicking and destroying beetles and larvae: This is effective for small infestations.","Use of insecticidal soap or neem oil: These are relatively safe and effective against young larvae and adults. Apply thoroughly to both the upper and lower leaf surfaces.","Biological control: Introduce beneficial insects such as ladybugs or lacewings that prey on the beetle's eggs and larvae.","Bacillus thuringiensis (Bt): This is a bacterium that produces toxins lethal to Colorado potato beetle larvae. Apply as directed on the product label.","Chemical insecticides: Use only as a last resort and choose a product that is specific to the Colorado potato beetle and follows all label instructions. Consider the impact on beneficial insects and the environment.","Crop rotation: Avoid planting potatoes or other susceptible crops in the same area for several years to disrupt the beetle's life cycle.","Resistant varieties: Plant potato varieties that show some resistance to Colorado potato beetle damage."]}
+[2025-04-28 21:06:01] [INFO] Results saved to database successfully
+[2025-04-28 21:08:05] [INFO] API Key loaded successfully
+[2025-04-28 21:08:05] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php6087.tmp","error":0,"size":6771}
+[2025-04-28 21:08:05] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fd21529c31.jpg
+[2025-04-28 21:08:05] [INFO] Database record created with ID: 16
+[2025-04-28 21:08:05] [INFO] Image encoded successfully
+[2025-04-28 21:08:05] [INFO] Sending request to Gemini API
+[2025-04-28 21:08:09] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, including tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have yellow to tan elytra (wing covers) with five black stripes running lengthwise down each. The larvae are reddish-brown with two rows of dark spots along their backs.  Both adults and larvae feed on the leaves, stems, and flowers of potato plants, causing significant damage and reducing yields.  Heavy infestations can completely defoliate plants.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, focusing on the undersides of leaves where larvae often hide.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae but generally safe for beneficial insects and humans.",
+    "Introducing beneficial insects such as ladybugs or lacewings to help control beetle populations.",
+    "Using row covers to protect young plants from adult beetles.",
+    "Planting resistant potato varieties, if available in your region.",
+    "Using chemical insecticides as a last resort, following label instructions carefully and considering the potential impact on non-target organisms and the environment."
+  ]
+}
+```
+
+[2025-04-28 21:08:09] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family, including tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have yellow to tan elytra (wing covers) with five black stripes running lengthwise down each. The larvae are reddish-brown with two rows of dark spots along their backs.  Both adults and larvae feed on the leaves, stems, and flowers of potato plants, causing significant damage and reducing yields.  Heavy infestations can completely defoliate plants.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, focusing on the undersides of leaves where larvae often hide.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae but generally safe for beneficial insects and humans.","Introducing beneficial insects such as ladybugs or lacewings to help control beetle populations.","Using row covers to protect young plants from adult beetles.","Planting resistant potato varieties, if available in your region.","Using chemical insecticides as a last resort, following label instructions carefully and considering the potential impact on non-target organisms and the environment."]}
+[2025-04-28 21:08:09] [INFO] Results saved to database successfully
+[2025-04-28 21:12:29] [INFO] API Key loaded successfully
+[2025-04-28 21:12:29] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php6806.tmp","error":0,"size":6771}
+[2025-04-28 21:12:29] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fd31d3b279.jpg
+[2025-04-28 21:12:29] [INFO] Database record created with ID: 17
+[2025-04-28 21:12:29] [INFO] Image encoded successfully
+[2025-04-28 21:12:29] [INFO] Sending request to Gemini API
+[2025-04-28 21:12:33] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.99,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have yellow to tan elytra (wing covers) with five black stripes on each.  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of plants, causing significant damage and reducing yields.  Heavy infestations can defoliate plants completely.",
+  "treatments": [
+    "Handpicking and destroying beetles and larvae: This is effective for small infestations.",
+    "Use of insecticidal soap or neem oil: These are relatively low-toxicity options that can control small populations.  Apply thoroughly to both sides of the leaves.",
+    "Biological control: Introduce beneficial insects like lacewings or ladybugs that prey on the beetle's eggs and larvae.",
+    "Bacillus thuringiensis (Bt): This is a bacterium that produces toxins lethal to Colorado potato beetles. It is a more environmentally friendly option than synthetic insecticides.",
+    "Spinosad: This is a naturally derived insecticide that is effective against Colorado potato beetles.",
+    "Synthetic insecticides (as a last resort): Use only if other methods fail and follow label instructions carefully.  Rotate insecticides to prevent resistance development."
+  ]
+}
+```
+
+[2025-04-28 21:12:33] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.99,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have yellow to tan elytra (wing covers) with five black stripes on each.  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of plants, causing significant damage and reducing yields.  Heavy infestations can defoliate plants completely.","treatments":["Handpicking and destroying beetles and larvae: This is effective for small infestations.","Use of insecticidal soap or neem oil: These are relatively low-toxicity options that can control small populations.  Apply thoroughly to both sides of the leaves.","Biological control: Introduce beneficial insects like lacewings or ladybugs that prey on the beetle's eggs and larvae.","Bacillus thuringiensis (Bt): This is a bacterium that produces toxins lethal to Colorado potato beetles. It is a more environmentally friendly option than synthetic insecticides.","Spinosad: This is a naturally derived insecticide that is effective against Colorado potato beetles.","Synthetic insecticides (as a last resort): Use only if other methods fail and follow label instructions carefully.  Rotate insecticides to prevent resistance development."]}
+[2025-04-28 21:12:33] [INFO] Results saved to database successfully
+[2025-04-28 21:14:25] [INFO] API Key loaded successfully
+[2025-04-28 21:14:25] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php2FC7.tmp","error":0,"size":6771}
+[2025-04-28 21:14:25] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fd391df999.jpg
+[2025-04-28 21:14:25] [INFO] Database record created with ID: 18
+[2025-04-28 21:14:25] [INFO] Image encoded successfully
+[2025-04-28 21:14:25] [INFO] Sending request to Gemini API
+[2025-04-28 21:14:30] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The image shows a Colorado potato beetle (Leptinotarsa decemlineata).  This beetle is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), including tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the host plants, causing significant damage and reducing yields.  Heavy infestations can defoliate plants completely.",
+  "treatments": [
+    "Handpicking and destroying beetles and larvae: This is effective for small infestations.",
+    "Use of insecticidal soap or neem oil: These are relatively low-toxicity options that can be effective against young larvae and adults.  Apply according to product instructions, ensuring thorough coverage.",
+    "Bacillus thuringiensis (Bt) application: This is a naturally occurring bacterium that is toxic to beetle larvae.  It is a more environmentally friendly option than synthetic insecticides.",
+    "Application of appropriate insecticides:  If infestations are severe, consider using a registered insecticide that is effective against Colorado potato beetles.  Always follow label instructions carefully and consider the impact on beneficial insects and the environment.",
+    "Crop rotation: Avoid planting potatoes or other susceptible crops in the same area for several years to disrupt the beetle's life cycle.",
+    "Use of resistant potato varieties: Some potato varieties exhibit some resistance to Colorado potato beetles."
+  ]
+}
+```
+
+[2025-04-28 21:14:30] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The image shows a Colorado potato beetle (Leptinotarsa decemlineata).  This beetle is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), including tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the host plants, causing significant damage and reducing yields.  Heavy infestations can defoliate plants completely.","treatments":["Handpicking and destroying beetles and larvae: This is effective for small infestations.","Use of insecticidal soap or neem oil: These are relatively low-toxicity options that can be effective against young larvae and adults.  Apply according to product instructions, ensuring thorough coverage.","Bacillus thuringiensis (Bt) application: This is a naturally occurring bacterium that is toxic to beetle larvae.  It is a more environmentally friendly option than synthetic insecticides.","Application of appropriate insecticides:  If infestations are severe, consider using a registered insecticide that is effective against Colorado potato beetles.  Always follow label instructions carefully and consider the impact on beneficial insects and the environment.","Crop rotation: Avoid planting potatoes or other susceptible crops in the same area for several years to disrupt the beetle's life cycle.","Use of resistant potato varieties: Some potato varieties exhibit some resistance to Colorado potato beetles."]}
+[2025-04-28 21:14:30] [INFO] Results saved to database successfully
+[2025-04-28 21:16:42] [INFO] API Key loaded successfully
+[2025-04-28 21:16:42] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php43A5.tmp","error":0,"size":6771}
+[2025-04-28 21:16:42] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fd41a11e8b.jpg
+[2025-04-28 21:16:42] [INFO] Database record created with ID: 19
+[2025-04-28 21:16:42] [INFO] Image encoded successfully
+[2025-04-28 21:16:42] [INFO] Sending request to Gemini API
+[2025-04-28 21:16:46] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.99,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, and also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have ten black stripes on their yellow-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the host plants, causing significant damage and reducing yields.  Heavy infestations can defoliate plants completely.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.",
+    "Introducing beneficial insects such as ladybugs or lacewings that prey on the beetle's eggs and larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to Colorado potato beetle larvae. This is a more environmentally friendly option.",
+    "Using row covers to protect young plants from adult beetles.",
+    "Rotating crops to disrupt the beetle's life cycle.",
+    "Using commercially available insecticides as a last resort, following label instructions carefully and considering the environmental impact."
+  ]
+}
+```
+
+[2025-04-28 21:16:46] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.99,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, and also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have ten black stripes on their yellow-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the host plants, causing significant damage and reducing yields.  Heavy infestations can defoliate plants completely.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae. Repeat applications may be necessary.","Introducing beneficial insects such as ladybugs or lacewings that prey on the beetle's eggs and larvae.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to Colorado potato beetle larvae. This is a more environmentally friendly option.","Using row covers to protect young plants from adult beetles.","Rotating crops to disrupt the beetle's life cycle.","Using commercially available insecticides as a last resort, following label instructions carefully and considering the environmental impact."]}
+[2025-04-28 21:16:46] [INFO] Results saved to database successfully
+[2025-04-28 21:21:44] [INFO] API Key loaded successfully
+[2025-04-28 21:21:44] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpE1E6.tmp","error":0,"size":6771}
+[2025-04-28 21:21:44] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_680fd548afddc.jpg
+[2025-04-28 21:21:44] [INFO] Database record created with ID: 20
+[2025-04-28 21:21:44] [INFO] Image encoded successfully
+[2025-04-28 21:21:44] [INFO] Sending request to Gemini API
+[2025-04-28 21:21:48] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but it also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have a distinctive pattern of ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are soft-bodied, reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and even the tubers of the host plant, causing significant damage and potentially leading to crop failure.  The damage is characterized by holes and skeletonization of leaves.",
+  "treatments": [
+    "Handpicking and destroying beetles and larvae.",
+    "Using insecticidal soap or neem oil sprays, especially targeting young larvae.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to Colorado potato beetle larvae.",
+    "Employing row covers to protect plants from adult beetles.",
+    "Planting trap crops to attract beetles away from main crops.",
+    "Using commercially available insecticides as a last resort, following label instructions carefully and considering the impact on beneficial insects and the environment."
+  ]
+}
+```
+
+[2025-04-28 21:21:48] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but it also feeds on other plants in the nightshade family, such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have a distinctive pattern of ten black stripes on their yellowish-orange elytra (wing covers).  The larvae are soft-bodied, reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and even the tubers of the host plant, causing significant damage and potentially leading to crop failure.  The damage is characterized by holes and skeletonization of leaves.","treatments":["Handpicking and destroying beetles and larvae.","Using insecticidal soap or neem oil sprays, especially targeting young larvae.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to Colorado potato beetle larvae.","Employing row covers to protect plants from adult beetles.","Planting trap crops to attract beetles away from main crops.","Using commercially available insecticides as a last resort, following label instructions carefully and considering the impact on beneficial insects and the environment."]}
+[2025-04-28 21:21:48] [INFO] Results saved to database successfully
+[2025-04-29 16:51:24] [INFO] API Key loaded successfully
+[2025-04-29 16:51:24] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpAB75.tmp","error":0,"size":6771}
+[2025-04-29 16:51:24] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_6810e76c79e23.jpg
+[2025-04-29 16:51:24] [INFO] Database record created with ID: 21
+[2025-04-29 16:51:24] [INFO] Image encoded successfully
+[2025-04-29 16:51:24] [INFO] Sending request to Gemini API
+[2025-04-29 16:51:37] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1/2 inch long, oval-shaped, and have a yellowish-brown to orange body with five black stripes on each wing cover.  The larvae are soft-bodied, and range in color from dark grey to orange-red, and have two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and defoliation.  Heavy infestations can severely reduce crop yields.",
+  "treatments": [
+    "Handpicking beetles and larvae from plants, especially early in the infestation.",
+    "Using insecticidal soap or neem oil sprays, targeting both adults and larvae.  Repeat applications may be necessary.",
+    "Introducing beneficial insects such as ladybugs, lacewings, or parasitic wasps which prey on Colorado potato beetles.",
+    "Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae but generally safe for other insects and humans.",
+    "Using chemical insecticides as a last resort, following label instructions carefully and considering the environmental impact.  Rotate insecticides to prevent resistance development."
+  ]
+}
+```
+
+[2025-04-29 16:51:37] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The Colorado potato beetle (Leptinotarsa decemlineata) is a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), such as tomatoes, eggplants, and peppers.  Adults are about 1\/2 inch long, oval-shaped, and have a yellowish-brown to orange body with five black stripes on each wing cover.  The larvae are soft-bodied, and range in color from dark grey to orange-red, and have two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, stems, and flowers of the host plant, causing significant damage and defoliation.  Heavy infestations can severely reduce crop yields.","treatments":["Handpicking beetles and larvae from plants, especially early in the infestation.","Using insecticidal soap or neem oil sprays, targeting both adults and larvae.  Repeat applications may be necessary.","Introducing beneficial insects such as ladybugs, lacewings, or parasitic wasps which prey on Colorado potato beetles.","Applying Bacillus thuringiensis (Bt) products, a naturally occurring bacterium that is toxic to beetle larvae but generally safe for other insects and humans.","Using chemical insecticides as a last resort, following label instructions carefully and considering the environmental impact.  Rotate insecticides to prevent resistance development."]}
+[2025-04-29 16:51:37] [INFO] Results saved to database successfully
+[2025-05-01 10:56:23] [INFO] API Key loaded successfully
+[2025-05-01 10:56:23] [INFO] File upload received: {"name":"mar.jpg","full_path":"mar.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpFE52.tmp","error":0,"size":6771}
+[2025-05-01 10:56:23] [INFO] File saved successfully: C:\xampp\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_681337374fd54.jpg
+[2025-05-01 10:56:23] [INFO] Database record created with ID: 22
+[2025-05-01 10:56:23] [INFO] Image encoded successfully
+[2025-05-01 10:56:23] [INFO] Sending request to Gemini API
+[2025-05-01 10:56:29] [INFO] API Text Response: ```json
+{
+  "name": "Colorado Potato Beetle",
+  "confidence": 0.95,
+  "description": "The image shows a Colorado potato beetle (Leptinotarsa decemlineata).  It's a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), including tomatoes, eggplants, and peppers. Adults are about 1/2 inch long, oval-shaped, and have ten black stripes on their yellow-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, causing significant damage and defoliation, which can severely impact plant growth and yield.  The characteristic feeding damage is seen in the image as holes in the leaf.",
+  "treatments": [
+    "Handpicking and destroying beetles and larvae: This is effective for small infestations.",
+    "Use of insecticidal soap or neem oil: Apply according to product instructions, focusing on the undersides of leaves where larvae often hide.",
+    "Bacillus thuringiensis (Bt) application:  Bt is a naturally occurring bacterium that is toxic to Colorado potato beetle larvae. Apply according to product instructions.",
+    "Biological control: Introduce beneficial insects like ladybugs or lacewings that prey on beetle eggs and larvae.",
+    "Consider using row covers to protect plants, especially young seedlings.",
+    "Rotate crops: Avoid planting potatoes or other Solanaceae plants in the same location year after year to disrupt the beetle's life cycle.",
+    "Use insecticidal sprays (as a last resort):  Choose a product labeled for use on Colorado potato beetles and follow all label instructions carefully.  Consider the environmental impact and potential harm to beneficial insects."
+  ]
+}
+```
+
+[2025-05-01 10:56:29] [INFO] Pest identified: {"name":"Colorado Potato Beetle","confidence":0.95,"description":"The image shows a Colorado potato beetle (Leptinotarsa decemlineata).  It's a serious pest of potato plants, but also feeds on other plants in the nightshade family (Solanaceae), including tomatoes, eggplants, and peppers. Adults are about 1\/2 inch long, oval-shaped, and have ten black stripes on their yellow-orange elytra (wing covers).  The larvae are reddish-brown with two rows of dark spots along their sides.  Both adults and larvae feed on the leaves, causing significant damage and defoliation, which can severely impact plant growth and yield.  The characteristic feeding damage is seen in the image as holes in the leaf.","treatments":["Handpicking and destroying beetles and larvae: This is effective for small infestations.","Use of insecticidal soap or neem oil: Apply according to product instructions, focusing on the undersides of leaves where larvae often hide.","Bacillus thuringiensis (Bt) application:  Bt is a naturally occurring bacterium that is toxic to Colorado potato beetle larvae. Apply according to product instructions.","Biological control: Introduce beneficial insects like ladybugs or lacewings that prey on beetle eggs and larvae.","Consider using row covers to protect plants, especially young seedlings.","Rotate crops: Avoid planting potatoes or other Solanaceae plants in the same location year after year to disrupt the beetle's life cycle.","Use insecticidal sprays (as a last resort):  Choose a product labeled for use on Colorado potato beetles and follow all label instructions carefully.  Consider the environmental impact and potential harm to beneficial insects."]}
+[2025-05-01 10:56:29] [INFO] Results saved to database successfully
